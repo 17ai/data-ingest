@@ -1,2 +1,2 @@
 # data-ingest
-Get data from anywhere (Structured)
+Get data from anywhere (Structured/Unstructured)
